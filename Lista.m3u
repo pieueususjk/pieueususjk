@@ -1,0 +1,22 @@
+
+#EXTINF:-1 tvg-logo'' group-title'',Rit
+https://rr2---sn-8xavv-hj1s.googlevideo.com/videoplayback?expire=1672611342&ei=rrGxY6TcM4W0wgSb-LPgAQ&ip=45.160.44.235&id=T8-y5BkjGaA.1&itag=133&aitags=133%2C134%2C135%2C136%2C160%2C298%2C299&source=yt_live_broadcast&requiressl=yes&mh=1v&mm=44%2C29&mn=sn-8xavv-hj1s%2Csn-pmcg-4vge&ms=lva%2Crdu&mv=m&mvi=2&pl=24&initcwndbps=382500&spc=zIddbKdWv5MIO5MjIf7eVsYaMDSNTsw&vprv=1&live=1&hang=1&noclen=1&mime=video%2Fmp4&ns=4u_exhHKuEFeCiD9sbXYUkUK&gir=yes&mt=1672589337&fvip=4&keepalive=yes&fexp=24001373%2C24007246&c=WEB_EMBEDDED_PLAYER&n=SX7Ot2t6JVWC-w&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cspc%2Cvprv%2Clive%2Chang%2Cnoclen%2Cmime%2Cns%2Cgir&sig=AOq0QJ8wRAIgBicM9dwY-0fiMaHAXBA-jJaQYOnDF45bHKoJXy-s42ACIG27wjkf8BcQqTMzvgRTHPThz1_n94tJfS6nHlvrxNpt&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRQIgSprOiwEU96T8jIuRADXRVx0ZOeU4bSd_FKNXtnS5NiwCIQDegRHNPt10o3yq7F08z4n1taXn6MU4Td54HsZWvQdjRQ%3D%3D&alr=yes&cpn=Wc4FSMvxjpkL9TQT&cver=1.20221218.00.00&headm=1&pot=D_tu08dTKSoU-1WX3cFm2ZyvBXvpdnsQfSAL28KGQnRGz6OC2MziGxd5oYnSUb6I589lwuB984Ya2bIG2Ecps92YXxl3eitXE9Av-s8RzWLE0MEf-H5ssG1dthpr7O19tvG9gzv5yxY=
+
+
+#EXTINF:-1 tvg-logo'' group-title'',Rede Tv
+https://server100.online/redetv/tracks-v1a1/mono.m3u8?token=fd8a98bd2c9a9c2d408b6754dbeb1c6945f45837-49d60d80abb330c007a1935018adbdee-1672596383-1672589183
+
+
+#EXTINF:-1 tvg-logo'' group-title'',Tv futura
+https://stmv1.transmissaodigital.com/ronald6259/ronald6259/chunklist.m3u8
+
+
+#EXTINF:-1 tvg-logo'' group-title'',Tv cultura
+https://stream-02.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl53a9LFwKzNfDEmSbflBfThBQKmICXplkDvsniCSeWIJ)/dm/3/x7wur7g/s/live-2.m3u8#cell=lnyc
+
+#EXTINF:-1 tvg-logo'' group-title'',Tv Brasil
+https://stream-03.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLiTxM_T-CdFSHuLUdrWYn1ZyH58bmVj2pIPNHlltttAv)/dm/3/x82pp99/d/live-3.m3u8#cell=lnyc
+
+
+#EXTINF:-1 tvg-logo'' group-title'',Tv diário
+https://stream-04.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZQy4NwAm6fCUbBuxlYmb5N-JO9vk6LBKnzdS9n1S93Lj)/dm/3/x7txn7q/s/live-0.m3u8#cell=lnyc
