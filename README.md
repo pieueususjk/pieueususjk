@@ -1,31 +1,6 @@
-#EXTINF:-1 tvg-logo'''' group-title'''',Tv bahia
+#EXTINF:-1 tvg-logo'''' group-title''Tv aberta'',SBT-Rio
+https://rr7---sn-8xavv-hj1l.googlevideo.com/videoplayback?expire=1672794591&ei=f320Y5mIGN2RobIPt6KbkAg&ip=45.160.44.235&id=hj9-hoYto0M.1&itag=244&aitags=133%2C134%2C135%2C136%2C160%2C242%2C243%2C244%2C247%2C278&source=yt_live_broadcast&requiressl=yes&mh=-m&mm=44%2C29&mn=sn-8xavv-hj1l%2Csn-pmcg-bg0k&ms=lva%2Crdu&mv=u&mvi=7&pl=24&hcs=%2Csd&smhost=%2Crr2---sn-pmcg-bg0s.googlevideo.com&gcr=br&spc=zIddbIxVns29l67vvfW8mZPbWoYL_-g&vprv=1&live=1&hang=1&noclen=1&mime=video%2Fwebm&ns=87Ig1CVv1fZAzczjsB4nXWMK&gir=yes&mt=1672772452&fvip=9&keepalive=yes&fexp=24001373%2C24007246&c=WEB_EMBEDDED_PLAYER&n=A7SHgGMYB1gFIA&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cgcr%2Cspc%2Cvprv%2Clive%2Chang%2Cnoclen%2Cmime%2Cns%2Cgir&sig=AOq0QJ8wRAIgNSENYmRbf_LDGWMYp5Mup2wdAv7_rsAoMduHuCVYcokCIFs0k4pqGyrHxQ-57CstKWr6s81R02g0IDPaVZWMQO5a&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Chcs%2Csmhost&lsig=AG3C_xAwRQIgBLdR8Wu53kMAO9NNB8Vp-RscuTPY7OqA7ffMpxy8mesCIQCuCRg7XYc9RrU1q4uUXiieXtnfCqV02_iXLt-DQWpWWA%3D%3D&alr=yes&cpn=_FqY3F5XuYIzWjP8&cver=1.20221218.00.00&sq=1981881&pot=D-xBHBiD3Kyn7HkVW1aoQJWgRExyjlzg7NSN6lgrN9IVhAx4Pxmj71WEH_dnDg7CHI2mU9K3sU5Santi4F7zZT4qWH-MDU7G7WR_EcM8dgqmyRs0EqLg9tZlNKzOXDNJrXGFSuI=
+#EXTINF:-1 tvg-logo''https://pt.m.wikipedia.org/wiki/Ficheiro:Cultura_logo_2013.svg'' group-title''Tv aberta'',Tv cultura-Bahia
+https://stream-04.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl9zAc-RaslJ4DOpSxpDUac7Lf06v-oFT08qC6auN3oqI)/dm/3/x7wur7g/s/live-2.m3u8#cell=lnyc
+#EXTINF:-1 tvg-logo''https://www.google.com/url?sa=i&url=https%3A%2F%2Fpt.wikipedia.org%2Fwiki%2FFicheiro%3ALogotipo_TV_Bahia.png&psig=AOvVaw3l-7_eYL4FrnbrzEXVMAZd&ust=1672859293200000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCPD5n9GMrPwCFQAAAAAdAAAAABAE'' group-title''Tv aberta'',Tv bahia
 https://transcoder.proxy.tokplay.com.br/videos/REDEGLOBO/format720p_REDEGLOBO.m3u8
-
-
-#EXTINF:-1 tvg-logo'''' group-title'''',Tv gazeta
-https://stream-01.nyc.dailymotion.com/sec(OZ0ERGOH4oE-_Xr-zBQ5v_j03odg3tyuwKlfg5zg3gU_iAHF6i1uYbUMAzk-9qNC)/dm/3/x89qors/d/live-3.m3u8#cell=lnyc
-
-
-#EXTINF:-1 tvg-logo'''' group-title'''',Rede brasil
-https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/chunklist_w1754302625.m3u8
-
-
-#EXTINF:-1 tvg-logo'''' group-title'''',Tv camara
-https://stream3.camara.gov.br/tv1/manifest.m3u8
-
-
-#EXTINF:-1 tvg-logo'''' group-title'''',Rede família
-https://5a1c76baf08c0.streamlock.net/familia/smil:familia.smil/chunklist_w1874736787_b1628000.m3u8
-
-
-#EXTINF:-1 tvg-logo'''' group-title'''', Record News
-https://5cf4a2c2512a2.streamlock.net/8016/8016/chunklist_w1246762452.m3u8
-
-
-#EXTINF:-1 tvg-logo'''' group-title'''',Armazon sat
-https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
-
-
-
-#EXTINF:-1 tvg-logo'''' group-title'''',Rede minas
-https://v4-slbps-sambavideos.akamaized.net/live/3282,8114,ec4b5a296d97fa99bf990662f5b4f8e1;base64np;Mc8VDxqNjXKCAf8!/amlst:Mc_tFgfGiHOdQXPB/chunklist_b610304.m3u8?sts=st=1672591377~exp=1672597977~acl=/*~hmac=e6e67196ecb5f64bf91f2a2ed190caa048fcebb2926457b0b0ad20fbed263e86
